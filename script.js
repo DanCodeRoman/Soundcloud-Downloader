@@ -1,5 +1,5 @@
 // Replace with your SoundCloud client ID
-const CLIENT_ID = "2t9loNQH90kzJcsFCODdigxfp325aq4z";
+const CLIENT_ID = "JGeUlG7kXbAKAKq3ykUdXoVIxnDgEuJz";
 
 // Function to resolve a SoundCloud URL (track or playlist)
 async function resolveSoundCloudUrl(url) {
